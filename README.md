@@ -1,4 +1,4 @@
-#Security Self-Assessment Project
+# Security Self-Assessment Project
 
 This repository contains a hypothetical information security self-assessment created for a cybersecurity class assignment. The project simulates the process of evaluating system vulnerabilities, assessing risk factors, and understanding compliance with standard security practices.
 
